@@ -1,0 +1,5 @@
+Variable,Etiqueta,Pendiente (β₁),R²,p-valor,Significatividad,Dirección,Cambio total 2010-2024,Cambio relativo (%),N observaciones
+avg_duration,Duración media (seg),-2.7103,0.8736,0.0,***,↓ Decreciente,-37.94,-17.6%,15
+avg_popularity,Popularidad media,2.0944,0.8046,0.0,***,↑ Creciente,+29.32,+55.5%,15
+avg_artist_popularity,Popularidad artista media,1.7735,0.8629,0.0,***,↑ Creciente,+24.83,+38.3%,15
+explicit_ratio,Ratio canciones explícitas,0.0286,0.8115,0.0,***,↑ Creciente,+0.40,+333.3%,15
